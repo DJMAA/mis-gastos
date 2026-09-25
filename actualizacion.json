@@ -1,14 +1,14 @@
 {
-  "version": "1.0.22",
+  "version": "1.0.23",
   "fecha": "25-09-2026",
-  "notas": "- Resumen: en «¿Por qué te quedó este monto?» ahora puedes tocar cada categoría (Compras, Transporte…) y se despliegan ahí mismo los movimientos que la forman.",
+  "notas": "- Celular: más espacio y márgenes en toda la app.\n- Movimientos de las cartolas y Pagos por mes se ven como tarjetas, sin deslizar hacia el lado.\n- Configuración ya no se sale de la pantalla.\n- Tablas editables: se ven los meses sin tanto deslizar.",
   "ui": {
-    "version": "1.0.22",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.22/ui-1.0.22.zip",
+    "version": "1.0.23",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.23/ui-1.0.23.zip",
     "min_pc": "1.0.0",
     "min_android": "1.0.0",
-    "sha256": "3a0cae17333c6c17ff74e9d86bdb71fd7c299399944946f8dc1f01ffd6ac0b1d",
-    "firma": "tz8vez99HdoHzogpENmrr7AkTSWiHhKkH0owVKDCUkEgIEBTnSSnNxvAcnmOoCORj02YqbEJNxskn2dEXr9KoQ=="
+    "sha256": "1fbd13999164709891ba01f76d02fca8559d606f70de89fac3ce9afe9b4afed8",
+    "firma": "PZRk8Zs968boNSdsMhDC6tMyhSRPljivNOk+aCW3NTqLERapOmUMOhsa50zAxgNaggI1QfhPc6ozw16AQYy5cg=="
   },
   "android": {
     "version": "1.0.3",
