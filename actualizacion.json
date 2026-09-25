@@ -1,20 +1,20 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "fecha": "25-09-2026",
-  "notas": "- Las actualizaciones se detectan al instante.\n- El aviso «Mes en curso: datos reales» ahora aparece solo en la campanita.\n- En Cartolas, el período con datos y la cuenta son listas desplegables.",
+  "notas": "- Corregido: en el celular la actualización se quedaba «Descargando…» para siempre.\n- Ahora el celular descarga la nueva versión dentro de la app, revisa la firma y abre el instalador de Android.",
   "ui": {
-    "version": "1.0.2",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.2/ui-1.0.2.zip",
+    "version": "1.0.3",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.3/ui-1.0.3.zip",
     "min_pc": "1.0.0",
     "min_android": "1.0.0",
-    "sha256": "1f2fd5a67df374a503cadf9cef7e405d07b460bf1f6584328e1c585c6f0a9955",
-    "firma": "3xV7J3o8qd8vKTq9xwUXF9YnYE4c7pOg7APikvCBgHOhbcKSAjNfmOuQDi4+Aep91tqwMOJwKEsYP09Dmy1GBQ=="
+    "sha256": "020444b0d016ea873f9014cc71f6982ad46f612951413fec7859db123fbecd3d",
+    "firma": "QHj2170W/RZcgqo3o5BZPIHXuYq4JE3a3Lefgf7Wkp0q/eU4TH8VD5fkb80ItnHMo7t7z0Xku5i9GZBAzfaelg=="
   },
   "android": {
-    "version": "1.0.2",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.2/MisGastos-1.0.2.apk",
-    "sha256": "de52201f2eedec7c6814926cfad8f52167abc26eb56c3d752d9f41eebc237006",
-    "firma": "Xza8rx9jypmj6f9zx19XRnkI5WLFPZL42WbJK8bIXrczAPfEE4PQNZqpy3rRhOF/ORaoB9LDiFMwGHYsS/TL4g=="
+    "version": "1.0.3",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.3/MisGastos-1.0.3.apk",
+    "sha256": "7770122d0483bfac28b9fd22d9c12da3bd89392aab3c5c06ed91aa697b88a4e1",
+    "firma": "/hU+ffonir9SWUa226BH4CbHOl6yIKRMVng0Wz3hK+NpUxVt2jfgrlJraQ+vADtt6Dgfqdy4RBiqo5epbYz7vw=="
   },
   "pc": {
     "version": "1.0.2",
