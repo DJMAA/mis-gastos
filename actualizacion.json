@@ -1,14 +1,14 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "fecha": "25-09-2026",
-  "notas": "- La ventana «¿Cómo se pagó…?» ahora se entiende sola: arriba las opciones rápidas (en efectivo / aún no pagado), un aviso de que los movimientos son sugerencias por monto parecido, y en cada uno cuánto se aleja del plan.\n- Se destacan los movimientos cuyo nombre coincide con el gasto.",
+  "notas": "- Nuevo manual de usuario dentro de la app.\n- Botón «?» arriba: activa el modo ayuda y toca cualquier parte (cuadros, tablas, botones) para ver qué es y cómo funciona.\n- Manual completo con buscador, también en Configuración → Ayuda.",
   "ui": {
-    "version": "1.0.6",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.6/ui-1.0.6.zip",
+    "version": "1.0.7",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.7/ui-1.0.7.zip",
     "min_pc": "1.0.0",
     "min_android": "1.0.0",
-    "sha256": "0fc2c9d84ab0cc9857414f2c0d26ab64834f442afcd67505c2b09183c02c471f",
-    "firma": "A6v9IR3HnhUQuE8UBcBTDCCjC8P3sTTuwC/1D4+lkvXcA1S6EKEdG9oCV+xDKDyeArijyRJMScOb7cz3JMx9tQ=="
+    "sha256": "bd87110b9b02e00fc118314d130e0bbc9c6f00c77f9ee6d4aaecdd93953be8d0",
+    "firma": "pKiXVx5d3xA6jAqoBY3j7cLfHT3Q9ryz26j59zo3SG8QcejLcfQ6OKtRa1yiLYeFIh6xnJECbMCfsIJV2hhdww=="
   },
   "android": {
     "version": "1.0.3",
