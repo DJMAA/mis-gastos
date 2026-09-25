@@ -1,14 +1,14 @@
 {
-  "version": "1.0.24",
+  "version": "1.0.25",
   "fecha": "25-09-2026",
-  "notas": "- Celular: las tablas de Ingresos, Fijos, Cuotas, Tarjeta y Deudores ahora son tarjetas que muestran solo el mes elegido (se cambia con una lista desplegable).\n- Al tocar una fila se abre una ventana para editar todos sus datos y los montos de cada mes.\n- Más separación de los bordes de la pantalla.",
+  "notas": "- Celular: ahora muestra solo lo esencial en 3 pantallas: Inicio (bancos, ingresos, pagos, tarjeta, cuotas, deudores), Pagos del mes e Ingresos del mes.\n- Para agregar o cambiar datos: Ajustes → Editar mis datos.\n- El computador queda igual.",
   "ui": {
-    "version": "1.0.24",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.24/ui-1.0.24.zip",
+    "version": "1.0.25",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.25/ui-1.0.25.zip",
     "min_pc": "1.0.0",
     "min_android": "1.0.0",
-    "sha256": "ce8b4a268b2e12fcaf0027949644bced3f73889844ab2453937f4c0a0e3c0a74",
-    "firma": "MN4HKVAelyIeU6iwgKruWF8pskLUriuLt0xw8DyT1b0QW5boKKH00SNQUPvN5GnBHnkktsa/abM7BNc1I0AoWw=="
+    "sha256": "2f93f45e71566859f02ff6498117621b6b0d8d4fa9b66d6598e6585426b16a72",
+    "firma": "iDQ+QuKWKmQjaqTldQijlUVNXXHHboe0ZWgc3teOo0jo8pBtXf0KXFcJeEW2lvAuJvIEfBS1iYMotPkN+T7Ywg=="
   },
   "android": {
     "version": "1.0.3",
