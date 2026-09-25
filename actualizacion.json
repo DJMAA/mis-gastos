@@ -1,14 +1,14 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "fecha": "25-09-2026",
-  "notas": "- Nuevo manual de usuario dentro de la app.\n- Botón «?» arriba: activa el modo ayuda y toca cualquier parte (cuadros, tablas, botones) para ver qué es y cómo funciona.\n- Manual completo con buscador, también en Configuración → Ayuda.",
+  "notas": "- Corregido: si abrías dos ventanas de Mis Gastos a la vez (por ejemplo la versión local), una podía cargar la pantalla de la otra.\n- Preparado para la versión local (para prestar).",
   "ui": {
-    "version": "1.0.7",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.7/ui-1.0.7.zip",
+    "version": "1.0.8",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.8/ui-1.0.8.zip",
     "min_pc": "1.0.0",
     "min_android": "1.0.0",
-    "sha256": "bd87110b9b02e00fc118314d130e0bbc9c6f00c77f9ee6d4aaecdd93953be8d0",
-    "firma": "pKiXVx5d3xA6jAqoBY3j7cLfHT3Q9ryz26j59zo3SG8QcejLcfQ6OKtRa1yiLYeFIh6xnJECbMCfsIJV2hhdww=="
+    "sha256": "6849dfaf638fdd5a05eb6dea65dcaad6e7dc4b9c85e859dce16fc2b14a31798b",
+    "firma": "oYMXBOj/+4GybwkRmFcu+GdawniyK7Ue16K04zo1xSlmdJrQwhZxJvMdA2GB/5HbIdxY6zBhVfrOFaw/DZ4Zyg=="
   },
   "android": {
     "version": "1.0.3",
@@ -17,9 +17,9 @@
     "firma": "/hU+ffonir9SWUa226BH4CbHOl6yIKRMVng0Wz3hK+NpUxVt2jfgrlJraQ+vADtt6Dgfqdy4RBiqo5epbYz7vw=="
   },
   "pc": {
-    "version": "1.0.2",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.2/MisGastos-PC-1.0.2.zip",
-    "sha256": "1cd7cf567c822cac7b08a80abfb7fd2ef0396edfcaca42ecc27663c5eb6a4f13",
-    "firma": "vBV4h+oDijZKn9gyD95L//s9q2PqOHSsqmw1QuAckUbXaRfZ5dBp/x0cKsPHa3heyp+Lb1xrnz2jryyE2+oIcA=="
+    "version": "1.0.8",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.8/MisGastos-PC-1.0.8.zip",
+    "sha256": "ed3188d925b88bb7efd2a1e8bbf94667051ebe1231245f924053b0225e2b8c66",
+    "firma": "fQBnKv6pgPUNcgEGWpi6nF0hScrsK6buaVT1U1/uaX3ZRc9wMexNOoMr6iHkIyV2miBtZZvj3eJ4JDXNWVQFlA=="
   }
 }
