@@ -1,14 +1,14 @@
 {
-  "version": "1.0.16",
+  "version": "1.0.17",
   "fecha": "25-09-2026",
-  "notas": "- Cartolas: los movimientos de cartolas antiguas (importadas antes de que se guardaran los períodos) ahora también cuentan para saber qué meses están completos.\n- En el mes en curso se revisa hasta ayer (el banco no entrega la cartola del día).",
+  "notas": "- Nueva ventana de Configuración: más amplia y ordenada en secciones (sincronización, colores, tus datos, Google Calendar, Excel, ayuda y versión), con los botones Guardar/Cancelar siempre abajo.\n- Corregido: en el PC se perdía la sesión de Google cada vez que se abría la app.",
   "ui": {
-    "version": "1.0.16",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.16/ui-1.0.16.zip",
+    "version": "1.0.17",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.17/ui-1.0.17.zip",
     "min_pc": "1.0.0",
     "min_android": "1.0.0",
-    "sha256": "fe44362cfd926e454f315b66da050a3ad3b15ce58b1bda46b275f31b2aa7a6d1",
-    "firma": "RIKxxxZuiTZ5dRUnfT2Av4Qo0Oeql4iE5rDlo/U+K7c5nLoAOz4me/u1lJA/MDk1qZoi23CaYRVjjr/MzFradQ=="
+    "sha256": "305f0c26d97baa86118f51b919b45573ad2f4fecf4f5f296a5ee5a8604e10c30",
+    "firma": "iqIEkgsxV89vgtKFfmLFvEgGvhjjbXoA2/T59NwQtZsWObrwWv58sfyUhir99GziOivPmSDPh7R2YcI0OiSMRQ=="
   },
   "android": {
     "version": "1.0.3",
@@ -17,9 +17,9 @@
     "firma": "/hU+ffonir9SWUa226BH4CbHOl6yIKRMVng0Wz3hK+NpUxVt2jfgrlJraQ+vADtt6Dgfqdy4RBiqo5epbYz7vw=="
   },
   "pc": {
-    "version": "1.0.8",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.8/MisGastos-PC-1.0.8.zip",
-    "sha256": "ed3188d925b88bb7efd2a1e8bbf94667051ebe1231245f924053b0225e2b8c66",
-    "firma": "fQBnKv6pgPUNcgEGWpi6nF0hScrsK6buaVT1U1/uaX3ZRc9wMexNOoMr6iHkIyV2miBtZZvj3eJ4JDXNWVQFlA=="
+    "version": "1.0.17",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.17/MisGastos-PC-1.0.17.zip",
+    "sha256": "9a03145ccd7a4aa47e1254b5bfb17c767666b58be4d03e583e5709ce1197df33",
+    "firma": "Oq+ZtVG3d/yz1f6PCLGYJu9bAJh2+gU1arCHNqDiLoS1DY0p7ycQdRfP85Z9EsceH+9sTvczU2LtwV+vSrRjQQ=="
   }
 }
