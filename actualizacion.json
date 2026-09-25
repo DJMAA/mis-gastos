@@ -1,14 +1,14 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "fecha": "25-09-2026",
-  "notas": "- Nuevas listas desplegables con el diseño de la app (antes se veía la lista gris de Windows): cuentas en Cartolas, categoría de cada movimiento, «Se deposita» y el mes al generar cuotas.\n- Las sugerencias de categoría en las tablas también tienen el nuevo diseño, con el color de cada categoría.\n- Se pueden usar con el teclado (flechas, Enter y Esc) y tienen buscador cuando hay muchas opciones.",
+  "notas": "- Cartolas: el color de cada mes ahora considera TODAS tus cuentas (verde = todas completas, naranja = alguna incompleta, rojo = a alguna le falta la cartola).\n- Al elegir un mes aparece el estado de cada cuenta: completa, incompleta (desde o hasta qué día) o sin cartola.",
   "ui": {
-    "version": "1.0.9",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.9/ui-1.0.9.zip",
+    "version": "1.0.10",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.10/ui-1.0.10.zip",
     "min_pc": "1.0.0",
     "min_android": "1.0.0",
-    "sha256": "64c61c3e9b4c9e8ff32f5e76ea1efb342313e2926117939876bf083fcd115f55",
-    "firma": "n37cDpYlsZbY+hemP0PeLWUReeOJjSNKCR2LGemFMDqC4du5Wu1K+srsGef9+qBQNWFweAs7Smu5ujccZeD0Vg=="
+    "sha256": "8978f521a314b1c4865d1eba735a552c6dc3f81d59a9cc81f759789914e785d6",
+    "firma": "geSnn0n75ZkzuVL+KJ2GruriJRWv0tRWar4g+ql1E5oFa+g1Tt6gNt+rUdz84wfIiyvRNLHFdPSUDpPbwUycbg=="
   },
   "android": {
     "version": "1.0.3",
