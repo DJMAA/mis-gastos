@@ -1,14 +1,14 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "fecha": "25-09-2026",
-  "notas": "- Corregido: en el celular la actualización se quedaba «Descargando…» para siempre.\n- Ahora el celular descarga la nueva versión dentro de la app, revisa la firma y abre el instalador de Android.",
+  "notas": "- En el celular, si no has iniciado sesión, siempre aparece la pantalla para conectar tu cuenta.",
   "ui": {
-    "version": "1.0.3",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.3/ui-1.0.3.zip",
+    "version": "1.0.4",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.4/ui-1.0.4.zip",
     "min_pc": "1.0.0",
     "min_android": "1.0.0",
-    "sha256": "020444b0d016ea873f9014cc71f6982ad46f612951413fec7859db123fbecd3d",
-    "firma": "QHj2170W/RZcgqo3o5BZPIHXuYq4JE3a3Lefgf7Wkp0q/eU4TH8VD5fkb80ItnHMo7t7z0Xku5i9GZBAzfaelg=="
+    "sha256": "69354724bbd54bd9fbf9c21380bae14cd381be33501077b789f1cfa9c55ae731",
+    "firma": "VP7nEpxyI2JVs2YszppnVfK9nx2qlk5h00LfLOsOD+Vu11zkKjF2vXW9r+mlT81BEVCuyxs0T7PgXDb0UVM2iQ=="
   },
   "android": {
     "version": "1.0.3",
