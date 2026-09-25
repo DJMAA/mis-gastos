@@ -1,14 +1,14 @@
 {
-  "version": "1.0.21",
+  "version": "1.0.22",
   "fecha": "25-09-2026",
-  "notas": "- Cartolas: los movimientos vuelven a estar juntos en una sola tabla.\n- Los traspasos entre tus cuentas ahora se destacan en morado (borde a la izquierda y fondo suave), con una leyenda arriba de la tabla.",
+  "notas": "- Resumen: en «¿Por qué te quedó este monto?» ahora puedes tocar cada categoría (Compras, Transporte…) y se despliegan ahí mismo los movimientos que la forman.",
   "ui": {
-    "version": "1.0.21",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.21/ui-1.0.21.zip",
+    "version": "1.0.22",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.22/ui-1.0.22.zip",
     "min_pc": "1.0.0",
     "min_android": "1.0.0",
-    "sha256": "4f5abc20825f2e7d00d0e97e6016a01d37f4ce06bc2fd643c182388120fc7c32",
-    "firma": "dUxxWAR/TN8qlcFED3nOr48gVHmNSV0IZldDfot1DwSNI6Gm2O//ME/mJufkYz3D7MPfk8nyA5ouLSI9RskpyQ=="
+    "sha256": "3a0cae17333c6c17ff74e9d86bdb71fd7c299399944946f8dc1f01ffd6ac0b1d",
+    "firma": "tz8vez99HdoHzogpENmrr7AkTSWiHhKkH0owVKDCUkEgIEBTnSSnNxvAcnmOoCORj02YqbEJNxskn2dEXr9KoQ=="
   },
   "android": {
     "version": "1.0.3",
