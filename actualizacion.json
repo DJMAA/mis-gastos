@@ -1,14 +1,14 @@
 {
-  "version": "1.0.19",
+  "version": "1.0.20",
   "fecha": "25-09-2026",
-  "notas": "- Movimientos (Cartolas): columnas separadas de Entrada y Salida, con total al final.\n- En toda la app, las salidas se muestran con «−» en rojo y las entradas con «+» en verde (detalles del Resumen, Fuera de tu plan, Gastos personales, ventanas para elegir movimientos).",
+  "notas": "- Cartolas: los traspasos «Entre mis cuentas» ahora están en su propia tabla, separados de los movimientos con otras personas y comercios.\n- El total de la tabla «Movimientos» ahora coincide con los cuadros Entró y Salió.",
   "ui": {
-    "version": "1.0.19",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.19/ui-1.0.19.zip",
+    "version": "1.0.20",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.20/ui-1.0.20.zip",
     "min_pc": "1.0.0",
     "min_android": "1.0.0",
-    "sha256": "ab0df9b4fcf3918e09c8d9968f7b6b09ca21f6f4068e8e1ff7c257f62a714024",
-    "firma": "KJClWdmo+76i/kPOTtUpsb6sS1YKR+HKpZsZv7OAwPaewRZsLH0HoTQ9NwsmDMtBmN2jOcGB2o8SOO6aXFZr+g=="
+    "sha256": "420c94e884a543cd4210e0309b11ce9aaf7e1008c9dc527aa859361feb7000f9",
+    "firma": "dbE/9LVmp15wpxr9cAkGvsxGE7Yxu3/sI1jWvLyjn5RRYrpd3vzg/oP92eyhTzyQJ/1AATlbdBmaJicDzm3Chw=="
   },
   "android": {
     "version": "1.0.3",
