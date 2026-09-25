@@ -1,14 +1,14 @@
 {
-  "version": "1.0.11",
+  "version": "1.0.12",
   "fecha": "25-09-2026",
-  "notas": "- En «Tienes hoy en tus cuentas» ahora también aparece lo que te debería quedar al terminar el mes (tu saldo de hoy + lo que falta recibir − lo que falta pagar).\n- Al tocarlo ves la cuenta completa, cada ingreso y pago pendiente, y un aviso si hay gastos fuera del plan que podrían ser pagos de tu plan.",
+  "notas": "- «Deuda pendiente» ahora muestra la deuda de ESTE mes (cuotas y tarjeta) en vez del total de todos los meses.\n- Nuevo cuadro «Deuda por pagar» en «Tu plan vs. lo que pasó»: lo que aún falta pagar de cuotas y tarjeta este mes. Al tocarlo ves qué falta y qué ya pagaste.",
   "ui": {
-    "version": "1.0.11",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.11/ui-1.0.11.zip",
+    "version": "1.0.12",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.12/ui-1.0.12.zip",
     "min_pc": "1.0.0",
     "min_android": "1.0.0",
-    "sha256": "59316cb74f1f873ec1b0704f6eca9d602abb8a9626866dae477ec2012adf1529",
-    "firma": "VgOfDMgJd+I2tjUHKSqydSJnXtzbDkthWlI5pKzurxz8zsY4Re/NGQ6Ls9TefpIBMPCzJLM3i4pW/kX3SMwZZg=="
+    "sha256": "471ebbae0a8a09bac566d0ba8e23c3a59cb0674a841ad0e5f4e13610aa3b2256",
+    "firma": "n5pQiDPYSCa4A1Nij3BcUvPrciXLN7iuhBZA1NCIoto3FpAZR29p+/y5WUfMivsktHJV19Ot/nfVi7uRn2kpcw=="
   },
   "android": {
     "version": "1.0.3",
