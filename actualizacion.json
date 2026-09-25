@@ -1,14 +1,14 @@
 {
-  "version": "1.0.23",
+  "version": "1.0.24",
   "fecha": "25-09-2026",
-  "notas": "- Celular: más espacio y márgenes en toda la app.\n- Movimientos de las cartolas y Pagos por mes se ven como tarjetas, sin deslizar hacia el lado.\n- Configuración ya no se sale de la pantalla.\n- Tablas editables: se ven los meses sin tanto deslizar.",
+  "notas": "- Celular: las tablas de Ingresos, Fijos, Cuotas, Tarjeta y Deudores ahora son tarjetas que muestran solo el mes elegido (se cambia con una lista desplegable).\n- Al tocar una fila se abre una ventana para editar todos sus datos y los montos de cada mes.\n- Más separación de los bordes de la pantalla.",
   "ui": {
-    "version": "1.0.23",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.23/ui-1.0.23.zip",
+    "version": "1.0.24",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.24/ui-1.0.24.zip",
     "min_pc": "1.0.0",
     "min_android": "1.0.0",
-    "sha256": "1fbd13999164709891ba01f76d02fca8559d606f70de89fac3ce9afe9b4afed8",
-    "firma": "PZRk8Zs968boNSdsMhDC6tMyhSRPljivNOk+aCW3NTqLERapOmUMOhsa50zAxgNaggI1QfhPc6ozw16AQYy5cg=="
+    "sha256": "ce8b4a268b2e12fcaf0027949644bced3f73889844ab2453937f4c0a0e3c0a74",
+    "firma": "MN4HKVAelyIeU6iwgKruWF8pskLUriuLt0xw8DyT1b0QW5boKKH00SNQUPvN5GnBHnkktsa/abM7BNc1I0AoWw=="
   },
   "android": {
     "version": "1.0.3",
