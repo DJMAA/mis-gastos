@@ -1,14 +1,14 @@
 {
-  "version": "1.0.20",
+  "version": "1.0.21",
   "fecha": "25-09-2026",
-  "notas": "- Cartolas: los traspasos «Entre mis cuentas» ahora están en su propia tabla, separados de los movimientos con otras personas y comercios.\n- El total de la tabla «Movimientos» ahora coincide con los cuadros Entró y Salió.",
+  "notas": "- Cartolas: los movimientos vuelven a estar juntos en una sola tabla.\n- Los traspasos entre tus cuentas ahora se destacan en morado (borde a la izquierda y fondo suave), con una leyenda arriba de la tabla.",
   "ui": {
-    "version": "1.0.20",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.20/ui-1.0.20.zip",
+    "version": "1.0.21",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.21/ui-1.0.21.zip",
     "min_pc": "1.0.0",
     "min_android": "1.0.0",
-    "sha256": "420c94e884a543cd4210e0309b11ce9aaf7e1008c9dc527aa859361feb7000f9",
-    "firma": "dbE/9LVmp15wpxr9cAkGvsxGE7Yxu3/sI1jWvLyjn5RRYrpd3vzg/oP92eyhTzyQJ/1AATlbdBmaJicDzm3Chw=="
+    "sha256": "4f5abc20825f2e7d00d0e97e6016a01d37f4ce06bc2fd643c182388120fc7c32",
+    "firma": "dUxxWAR/TN8qlcFED3nOr48gVHmNSV0IZldDfot1DwSNI6Gm2O//ME/mJufkYz3D7MPfk8nyA5ouLSI9RskpyQ=="
   },
   "android": {
     "version": "1.0.3",
