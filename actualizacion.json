@@ -1,14 +1,14 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "fecha": "25-09-2026",
-  "notas": "- En el celular, si no has iniciado sesión, siempre aparece la pantalla para conectar tu cuenta.",
+  "notas": "- La tarjeta de crédito ahora va aparte: sus compras no se suman a lo que sale de tus cuentas (no es plata tuya).\n- Lo que le pagas a la tarjeta desde tus cuentas sí cuenta como gasto (antes se tomaba como traspaso entre tus cuentas).\n- En Cartolas, «Todas mis cuentas» ya no mezcla la tarjeta; tiene su propia franja y su propia vista con compras, pagos, deuda y cupo.",
   "ui": {
-    "version": "1.0.4",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.4/ui-1.0.4.zip",
+    "version": "1.0.5",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.5/ui-1.0.5.zip",
     "min_pc": "1.0.0",
     "min_android": "1.0.0",
-    "sha256": "69354724bbd54bd9fbf9c21380bae14cd381be33501077b789f1cfa9c55ae731",
-    "firma": "VP7nEpxyI2JVs2YszppnVfK9nx2qlk5h00LfLOsOD+Vu11zkKjF2vXW9r+mlT81BEVCuyxs0T7PgXDb0UVM2iQ=="
+    "sha256": "3d57a0abdc5b3b20e0351198c254d782b2e0293d32e42db8eb0feb63bd4e9f0f",
+    "firma": "yPttu2EY3gybk2AA+TwlE2XdG4lccanqUszn4xcfQ2yrlTtB21SeLFb8vLM23NlY+A8XwLxMB7mt7xG3RfC9Bg=="
   },
   "android": {
     "version": "1.0.3",
