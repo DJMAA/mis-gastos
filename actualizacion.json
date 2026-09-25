@@ -1,14 +1,14 @@
 {
-  "version": "1.0.17",
+  "version": "1.0.18",
   "fecha": "25-09-2026",
-  "notas": "- Nueva ventana de Configuración: más amplia y ordenada en secciones (sincronización, colores, tus datos, Google Calendar, Excel, ayuda y versión), con los botones Guardar/Cancelar siempre abajo.\n- Corregido: en el PC se perdía la sesión de Google cada vez que se abría la app.",
+  "notas": "- Se quitó el aviso «Ingreso sin registrar» del análisis de cartolas: los ingresos extra los registras tú en «Ingresos y bancos».",
   "ui": {
-    "version": "1.0.17",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.17/ui-1.0.17.zip",
+    "version": "1.0.18",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.18/ui-1.0.18.zip",
     "min_pc": "1.0.0",
     "min_android": "1.0.0",
-    "sha256": "305f0c26d97baa86118f51b919b45573ad2f4fecf4f5f296a5ee5a8604e10c30",
-    "firma": "iqIEkgsxV89vgtKFfmLFvEgGvhjjbXoA2/T59NwQtZsWObrwWv58sfyUhir99GziOivPmSDPh7R2YcI0OiSMRQ=="
+    "sha256": "9ec25709ad5745d374ccd10b3212bc1c879870ae36fbd71d0fdf30459a75a5a7",
+    "firma": "ecIl9eYnXR8aJzoiaAtT6Ek/XlJmNmmiMKoii0nqLG9huf9Uf4Fce/EHLcU2ubXTIvTdeXZDONZ09n23XG7SyQ=="
   },
   "android": {
     "version": "1.0.3",
