@@ -1,0 +1,25 @@
+{
+  "version": "1.0.2",
+  "fecha": "25-09-2026",
+  "notas": "- Las actualizaciones se detectan al instante.\n- El aviso «Mes en curso: datos reales» ahora aparece solo en la campanita.\n- En Cartolas, el período con datos y la cuenta son listas desplegables.",
+  "ui": {
+    "version": "1.0.2",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.2/ui-1.0.2.zip",
+    "min_pc": "1.0.0",
+    "min_android": "1.0.0",
+    "sha256": "1f2fd5a67df374a503cadf9cef7e405d07b460bf1f6584328e1c585c6f0a9955",
+    "firma": "3xV7J3o8qd8vKTq9xwUXF9YnYE4c7pOg7APikvCBgHOhbcKSAjNfmOuQDi4+Aep91tqwMOJwKEsYP09Dmy1GBQ=="
+  },
+  "android": {
+    "version": "1.0.2",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.2/MisGastos-1.0.2.apk",
+    "sha256": "de52201f2eedec7c6814926cfad8f52167abc26eb56c3d752d9f41eebc237006",
+    "firma": "Xza8rx9jypmj6f9zx19XRnkI5WLFPZL42WbJK8bIXrczAPfEE4PQNZqpy3rRhOF/ORaoB9LDiFMwGHYsS/TL4g=="
+  },
+  "pc": {
+    "version": "1.0.2",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.2/MisGastos-PC-1.0.2.zip",
+    "sha256": "1cd7cf567c822cac7b08a80abfb7fd2ef0396edfcaca42ecc27663c5eb6a4f13",
+    "firma": "vBV4h+oDijZKn9gyD95L//s9q2PqOHSsqmw1QuAckUbXaRfZ5dBp/x0cKsPHa3heyp+Lb1xrnz2jryyE2+oIcA=="
+  }
+}
