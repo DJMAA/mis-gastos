@@ -1,14 +1,14 @@
 {
-  "version": "1.0.18",
+  "version": "1.0.19",
   "fecha": "25-09-2026",
-  "notas": "- Se quitó el aviso «Ingreso sin registrar» del análisis de cartolas: los ingresos extra los registras tú en «Ingresos y bancos».",
+  "notas": "- Movimientos (Cartolas): columnas separadas de Entrada y Salida, con total al final.\n- En toda la app, las salidas se muestran con «−» en rojo y las entradas con «+» en verde (detalles del Resumen, Fuera de tu plan, Gastos personales, ventanas para elegir movimientos).",
   "ui": {
-    "version": "1.0.18",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.18/ui-1.0.18.zip",
+    "version": "1.0.19",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.19/ui-1.0.19.zip",
     "min_pc": "1.0.0",
     "min_android": "1.0.0",
-    "sha256": "9ec25709ad5745d374ccd10b3212bc1c879870ae36fbd71d0fdf30459a75a5a7",
-    "firma": "ecIl9eYnXR8aJzoiaAtT6Ek/XlJmNmmiMKoii0nqLG9huf9Uf4Fce/EHLcU2ubXTIvTdeXZDONZ09n23XG7SyQ=="
+    "sha256": "ab0df9b4fcf3918e09c8d9968f7b6b09ca21f6f4068e8e1ff7c257f62a714024",
+    "firma": "KJClWdmo+76i/kPOTtUpsb6sS1YKR+HKpZsZv7OAwPaewRZsLH0HoTQ9NwsmDMtBmN2jOcGB2o8SOO6aXFZr+g=="
   },
   "android": {
     "version": "1.0.3",
