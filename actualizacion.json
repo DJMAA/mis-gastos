@@ -1,14 +1,14 @@
 {
-  "version": "1.0.12",
+  "version": "1.0.13",
   "fecha": "25-09-2026",
-  "notas": "- «Deuda pendiente» ahora muestra la deuda de ESTE mes (cuotas y tarjeta) en vez del total de todos los meses.\n- Nuevo cuadro «Deuda por pagar» en «Tu plan vs. lo que pasó»: lo que aún falta pagar de cuotas y tarjeta este mes. Al tocarlo ves qué falta y qué ya pagaste.",
+  "notas": "- Nueva categoría «Gastos personales» para tus salidas, regalos y gustos: ya no aparecen como «fuera del plan» y tienen su propio cuadro en «Tu plan vs. lo que pasó».\n- En «Fuera de tu plan» (tabla y detalle) ahora puedes cambiar la categoría de cada movimiento ahí mismo; la app lo recuerda para esa persona.\n- Presupuesto mensual opcional para gastos personales, con aviso si te pasas.",
   "ui": {
-    "version": "1.0.12",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.12/ui-1.0.12.zip",
+    "version": "1.0.13",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.13/ui-1.0.13.zip",
     "min_pc": "1.0.0",
     "min_android": "1.0.0",
-    "sha256": "471ebbae0a8a09bac566d0ba8e23c3a59cb0674a841ad0e5f4e13610aa3b2256",
-    "firma": "n5pQiDPYSCa4A1Nij3BcUvPrciXLN7iuhBZA1NCIoto3FpAZR29p+/y5WUfMivsktHJV19Ot/nfVi7uRn2kpcw=="
+    "sha256": "79af597dd95451d397705e654d55b1444562f10a71629a6b4f807adf8403c5a4",
+    "firma": "08njdRpOKueuTFufCSrKJCywE9Ls2PJLyIaKUpK/Jo2awioulkVzRIsk9F8p+FSVYnYfKl+Mq5stVaFGRVI2sw=="
   },
   "android": {
     "version": "1.0.3",
