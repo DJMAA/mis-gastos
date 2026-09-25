@@ -1,14 +1,14 @@
 {
-  "version": "1.0.14",
+  "version": "1.0.15",
   "fecha": "25-09-2026",
-  "notas": "- Nueva columna «Se paga a» en Gastos permanentes y Gastos temporales (y «Te paga» en Deudores), con las personas a las que más transfieres.\n- Al revisar tus cartolas, las transferencias a esa persona marcan el pago como «Pagado»: por su monto, por el total si pagaste varios pagos juntos, o si varias transferencias suman el total.\n- Si unes a mano un pago con una transferencia, la app recuerda a esa persona para los próximos meses.",
+  "notas": "- En «Se paga a» ahora también puedes elegir «Para mí»: a mis propias cuentas (por ejemplo tu ahorro) o retiro en efectivo.\n- Esos pagos se marcan como pagados con el traspaso a tu cuenta o el retiro por ese monto.",
   "ui": {
-    "version": "1.0.14",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.14/ui-1.0.14.zip",
+    "version": "1.0.15",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.15/ui-1.0.15.zip",
     "min_pc": "1.0.0",
     "min_android": "1.0.0",
-    "sha256": "f17356b75c08d6f38427bc5305c9bbfd62147341de237ce0fac845d735206dbd",
-    "firma": "5IQzhTUklmnaa6oOhG2+aG6ToRWoEFb4/59RiMwRU30oKg0mj5OB2IapAKsdDAKC9HBgO6hoYx3qwDCWAFzinA=="
+    "sha256": "cc58abc6911a8c6ff5e7bcd38df1640423d209e9081c3c8270f008e239702afc",
+    "firma": "mQS0nVQnROlTFUkv4rs7SYi/bZxKCdvDsM04ntdxCjm7fJApgg3j3SkDWD3VvWzQEEP2ZsxlLbCNPIMwLRPLOw=="
   },
   "android": {
     "version": "1.0.3",
