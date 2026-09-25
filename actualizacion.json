@@ -1,14 +1,14 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "fecha": "25-09-2026",
-  "notas": "- Corregido: si abrías dos ventanas de Mis Gastos a la vez (por ejemplo la versión local), una podía cargar la pantalla de la otra.\n- Preparado para la versión local (para prestar).",
+  "notas": "- Nuevas listas desplegables con el diseño de la app (antes se veía la lista gris de Windows): cuentas en Cartolas, categoría de cada movimiento, «Se deposita» y el mes al generar cuotas.\n- Las sugerencias de categoría en las tablas también tienen el nuevo diseño, con el color de cada categoría.\n- Se pueden usar con el teclado (flechas, Enter y Esc) y tienen buscador cuando hay muchas opciones.",
   "ui": {
-    "version": "1.0.8",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.8/ui-1.0.8.zip",
+    "version": "1.0.9",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.9/ui-1.0.9.zip",
     "min_pc": "1.0.0",
     "min_android": "1.0.0",
-    "sha256": "6849dfaf638fdd5a05eb6dea65dcaad6e7dc4b9c85e859dce16fc2b14a31798b",
-    "firma": "oYMXBOj/+4GybwkRmFcu+GdawniyK7Ue16K04zo1xSlmdJrQwhZxJvMdA2GB/5HbIdxY6zBhVfrOFaw/DZ4Zyg=="
+    "sha256": "64c61c3e9b4c9e8ff32f5e76ea1efb342313e2926117939876bf083fcd115f55",
+    "firma": "n37cDpYlsZbY+hemP0PeLWUReeOJjSNKCR2LGemFMDqC4du5Wu1K+srsGef9+qBQNWFweAs7Smu5ujccZeD0Vg=="
   },
   "android": {
     "version": "1.0.3",
