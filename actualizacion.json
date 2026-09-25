@@ -1,14 +1,14 @@
 {
-  "version": "1.0.15",
+  "version": "1.0.16",
   "fecha": "25-09-2026",
-  "notas": "- En «Se paga a» ahora también puedes elegir «Para mí»: a mis propias cuentas (por ejemplo tu ahorro) o retiro en efectivo.\n- Esos pagos se marcan como pagados con el traspaso a tu cuenta o el retiro por ese monto.",
+  "notas": "- Cartolas: los movimientos de cartolas antiguas (importadas antes de que se guardaran los períodos) ahora también cuentan para saber qué meses están completos.\n- En el mes en curso se revisa hasta ayer (el banco no entrega la cartola del día).",
   "ui": {
-    "version": "1.0.15",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.15/ui-1.0.15.zip",
+    "version": "1.0.16",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.16/ui-1.0.16.zip",
     "min_pc": "1.0.0",
     "min_android": "1.0.0",
-    "sha256": "cc58abc6911a8c6ff5e7bcd38df1640423d209e9081c3c8270f008e239702afc",
-    "firma": "mQS0nVQnROlTFUkv4rs7SYi/bZxKCdvDsM04ntdxCjm7fJApgg3j3SkDWD3VvWzQEEP2ZsxlLbCNPIMwLRPLOw=="
+    "sha256": "fe44362cfd926e454f315b66da050a3ad3b15ce58b1bda46b275f31b2aa7a6d1",
+    "firma": "RIKxxxZuiTZ5dRUnfT2Av4Qo0Oeql4iE5rDlo/U+K7c5nLoAOz4me/u1lJA/MDk1qZoi23CaYRVjjr/MzFradQ=="
   },
   "android": {
     "version": "1.0.3",
