@@ -1,0 +1,25 @@
+{
+  "version": "1.0.79",
+  "fecha": "28-09-2026",
+  "notas": "- Privacidad: el código ya no contiene nombres ni datos de ejemplo de ninguna persona.",
+  "ui": {
+    "version": "1.0.79",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.79/ui-1.0.79.zip",
+    "min_pc": "1.0.0",
+    "min_android": "1.0.0",
+    "sha256": "1b22158d644a8b38d36d99729fa930fbbd4db999bf77473d2a29dcb59fd7e54b",
+    "firma": "9MkKMaXXHqvp3HbYeY89sBus2dPVftZxa+f8kzToz4YXyDtDasqxiyt/7uenakwNDMmH3ZK73mesr9ML5RVl8Q=="
+  },
+  "android": {
+    "version": "1.0.79",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.79/MisGastos-1.0.79.apk",
+    "sha256": "d37b8f6033a37da92929d7a0cc26d5b8f3138e4f5aaf845cf14b898b4de4452d",
+    "firma": "qvDbfT4PcRq7b7fa/rte0713/31msAN2GOt25O9eaiCJT6ThIw5sRm7uQ4SVC2vYrZ3GtI7jEM1GeUUcnnrE/A=="
+  },
+  "pc": {
+    "version": "1.0.79",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.79/MisGastos-PC-1.0.79.zip",
+    "sha256": "acf92e52eae2d442f784648f120f4d287384e3c1a4ab9cb109a722dc8f8d291f",
+    "firma": "y3huWTbsUaoqL+OVX99SavTIJBozrxngQ//WWi0JENzgCL7eekvhGL0WZCpNNdCzagtOg18Ulvz7xWAFuAOg1w=="
+  }
+}
