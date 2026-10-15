@@ -1,20 +1,20 @@
 {
-  "version": "1.0.80",
-  "fecha": "01-10-2026",
-  "notas": "- Ahora se pueden importar las cartolas de BancoEstado en PDF («Estado de movimientos» de la CuentaRUT).",
+  "version": "1.0.81",
+  "fecha": "15-10-2026",
+  "notas": "- Nueva función Pánico DYM: botón de pánico con un mensaje de ánimo y un versículo, y en el celular bloquea las páginas y apps para adultos que elijas (con horario y PIN).",
   "ui": {
-    "version": "1.0.80",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.80/ui-1.0.80.zip",
+    "version": "1.0.81",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.81/ui-1.0.81.zip",
     "min_pc": "1.0.0",
     "min_android": "1.0.0",
-    "sha256": "7aff737180bb67301585fb5a9d6e2754448ab2fbcafcc9041c429a8b40d8ffd8",
-    "firma": "VCO73/sqMPdF+fw4+a+jbqS4oxTyd4Hd6r07JV+YmhCEwb9fZ7hFwS4LeDVDqCxrZxjEMPSkspA5iFqhIQCN9A=="
+    "sha256": "14df3c2c46450e4ab82543fab670c68945b900febfddd1190a4e7d8a536dcb03",
+    "firma": "kiV8j12pzLDxc2/h7LE7f6YbuhBXmRCfVBMK8KIsSQuOGU2h+jV2GV3w967AafSSXMOKD8CVk+WxRXupKhv67g=="
   },
   "android": {
-    "version": "1.0.79",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.79/MisGastos-1.0.79.apk",
-    "sha256": "d37b8f6033a37da92929d7a0cc26d5b8f3138e4f5aaf845cf14b898b4de4452d",
-    "firma": "qvDbfT4PcRq7b7fa/rte0713/31msAN2GOt25O9eaiCJT6ThIw5sRm7uQ4SVC2vYrZ3GtI7jEM1GeUUcnnrE/A=="
+    "version": "1.0.81",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.81/MisGastos-1.0.81.apk",
+    "sha256": "acf753e7ad892dff0685ed134fa7bf29b64dfda52ca32b69f558ce1e7b267f7b",
+    "firma": "4feMdNuxF6kAUhb/w7juIw/PyOBLRppuQsvh2T2ezjXEraqe50KX6pLm0EKQFGcG+5iV8Bjv6tcjsJEgNaY2SQ=="
   },
   "pc": {
     "version": "1.0.80",
