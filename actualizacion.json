@@ -1,20 +1,20 @@
 {
-  "version": "1.0.84",
+  "version": "1.0.85",
   "fecha": "15-10-2026",
-  "notas": "- Pánico DYM: en el celular, los Ajustes donde se apaga el bloqueo, se fuerza el cierre, se borran los datos o se desinstala Mis Gastos ahora piden la contraseña.",
+  "notas": "- Pánico DYM: arreglada la pantalla de contraseña de los Ajustes que se abría y cerraba sola en Xiaomi/Redmi.",
   "ui": {
-    "version": "1.0.84",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.84/ui-1.0.84.zip",
+    "version": "1.0.85",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.85/ui-1.0.85.zip",
     "min_pc": "1.0.0",
     "min_android": "1.0.0",
-    "sha256": "194e1f45a44ceced33e039f7bba6672740ae057aa33a43174ab51ed36f4a5e65",
-    "firma": "CRhNmMF/liM5+o5E/UfMp5+zPYjSZd4ZDMWQUwjwCPYiSo2A4NEkjSbyDHjC8Rl75Q9HCz49tXLc/g4/Z/2igA=="
+    "sha256": "3a319cbeeaa78e12352e408b13ce9a4cb333782d7e3d6351e05a64ac0a829be6",
+    "firma": "GZk1kx7RNXHresqMFYUh5XVKtw6LSnQByoDNI4eh1NUBG0z2mtmJeXZbMyuLGRY/vQ2oKsXLgGXvOoOLBzq7/g=="
   },
   "android": {
-    "version": "1.0.84",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.84/MisGastos-1.0.84.apk",
-    "sha256": "73909a3c62cfa30f9eb1bcba08577735eefd7aac2d1a55761c9b583f74e1321c",
-    "firma": "LtjIdkcH8xWjdow7Z9r5xM63cAdX2t9ntwbvMI2TfRe1pYluLUcnlvSizK4g3QJ5bS2c1VXobNozyFXOndx05w=="
+    "version": "1.0.85",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.85/MisGastos-1.0.85.apk",
+    "sha256": "24db80cac1c38981a04b2bd9c55a43beb40cc8fb793f98c525349b0bc0eb2023",
+    "firma": "Hz7zcn2Z2oNP31wunE7+cQAGt8WNA4YcPqbdzRsImQazVolpc5bedhnJcZC4IT37qfRnPEiLcqVuKoxaTl+ofA=="
   },
   "pc": {
     "version": "1.0.80",
