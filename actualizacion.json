@@ -1,20 +1,20 @@
 {
-  "version": "1.0.81",
+  "version": "1.0.82",
   "fecha": "15-10-2026",
-  "notas": "- Nueva función Pánico DYM: botón de pánico con un mensaje de ánimo y un versículo, y en el celular bloquea las páginas y apps para adultos que elijas (con horario y PIN).",
+  "notas": "- Pánico DYM en el celular: ahora funciona en Xiaomi/Redmi, revisa todos los navegadores y la búsqueda de Google, y tiene un botón «Probar».",
   "ui": {
-    "version": "1.0.81",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.81/ui-1.0.81.zip",
+    "version": "1.0.82",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.82/ui-1.0.82.zip",
     "min_pc": "1.0.0",
     "min_android": "1.0.0",
-    "sha256": "14df3c2c46450e4ab82543fab670c68945b900febfddd1190a4e7d8a536dcb03",
-    "firma": "kiV8j12pzLDxc2/h7LE7f6YbuhBXmRCfVBMK8KIsSQuOGU2h+jV2GV3w967AafSSXMOKD8CVk+WxRXupKhv67g=="
+    "sha256": "af4aef01987d9890b61af75820a7adfd2d2393eb5807d440775004accbd20585",
+    "firma": "m39bcTONopcy4rKjqFTFRht0XY+1DkBnG1zkaWLY+hq1nKG7xA/N0VTnB1xenMfpFRArYzIUQfG6GS+Avx3sxA=="
   },
   "android": {
-    "version": "1.0.81",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.81/MisGastos-1.0.81.apk",
-    "sha256": "acf753e7ad892dff0685ed134fa7bf29b64dfda52ca32b69f558ce1e7b267f7b",
-    "firma": "4feMdNuxF6kAUhb/w7juIw/PyOBLRppuQsvh2T2ezjXEraqe50KX6pLm0EKQFGcG+5iV8Bjv6tcjsJEgNaY2SQ=="
+    "version": "1.0.82",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.82/MisGastos-1.0.82.apk",
+    "sha256": "2a155f5414bbc012713d4e6d713e8708c988ad951fa7616caf04a40bd16ccaae",
+    "firma": "DQoSiyxWDaSLY5pSmKt313+hfNX3U7IUar/WndjMRABEN0oRnTfOl5UJpzukRspKWDE5dtmnP7zN6MVYdY0EJQ=="
   },
   "pc": {
     "version": "1.0.80",
