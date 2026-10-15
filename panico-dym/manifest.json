@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Pánico DYM",
+  "version": "1.0.0",
+  "description": "Bloquea páginas para adultos y muestra un mensaje de ánimo con un versículo.",
+  "permissions": ["declarativeNetRequest", "storage", "alarms"],
+  "host_permissions": ["<all_urls>"],
+  "background": { "service_worker": "background.js", "type": "module" },
+  "options_page": "opciones.html",
+  "action": { "default_title": "Pánico DYM", "default_popup": "popup.html" },
+  "web_accessible_resources": [
+    { "resources": ["bloqueo.html", "bloqueo.js", "bloqueo.css", "datos.js"], "matches": ["<all_urls>"] }
+  ]
+}
