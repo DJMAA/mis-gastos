@@ -1,20 +1,20 @@
 {
-  "version": "1.0.85",
-  "fecha": "15-10-2026",
-  "notas": "- Pánico DYM: arreglada la pantalla de contraseña de los Ajustes que se abría y cerraba sola en Xiaomi/Redmi.",
+  "version": "1.0.86",
+  "fecha": "18-10-2026",
+  "notas": "- Pánico DYM: arreglado que la pantalla de ánimo se abriera y cerrara sola al escribir la contraseña, y que el bloqueo se desactivara solo en Xiaomi/Redmi.",
   "ui": {
-    "version": "1.0.85",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.85/ui-1.0.85.zip",
+    "version": "1.0.86",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.86/ui-1.0.86.zip",
     "min_pc": "1.0.0",
     "min_android": "1.0.0",
-    "sha256": "3a319cbeeaa78e12352e408b13ce9a4cb333782d7e3d6351e05a64ac0a829be6",
-    "firma": "GZk1kx7RNXHresqMFYUh5XVKtw6LSnQByoDNI4eh1NUBG0z2mtmJeXZbMyuLGRY/vQ2oKsXLgGXvOoOLBzq7/g=="
+    "sha256": "85f6d68abe5c88b2f9045b74488dfe25356b721d7542c1980eef853c601d30fc",
+    "firma": "dpId7DgCAxIDaBhsNvaZRGWLqbjxVCxShahIdH96medA2FVuzAkS6isQcodjxTT/WVtAXZzryr/ldg5aZUzwTg=="
   },
   "android": {
-    "version": "1.0.85",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.85/MisGastos-1.0.85.apk",
-    "sha256": "24db80cac1c38981a04b2bd9c55a43beb40cc8fb793f98c525349b0bc0eb2023",
-    "firma": "Hz7zcn2Z2oNP31wunE7+cQAGt8WNA4YcPqbdzRsImQazVolpc5bedhnJcZC4IT37qfRnPEiLcqVuKoxaTl+ofA=="
+    "version": "1.0.86",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.86/MisGastos-1.0.86.apk",
+    "sha256": "8ccc425092a5ae2eebcf373361633d269cb79306736290ff108bea33d9ad3530",
+    "firma": "mEB3N5Bm4dOE25BnplNOd/RZseR/ig/QbbhA9XA7xHiV38YVt8vJGVA4U0x0B3YF+JOeNcQu51YJ0x540V9tIQ=="
   },
   "pc": {
     "version": "1.0.80",
