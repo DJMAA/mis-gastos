@@ -1,14 +1,14 @@
 {
-  "version": "1.0.87",
-  "fecha": "18-10-2026",
-  "notas": "- Cartolas: ahora lee la cartola CuentaRUT que se descarga desde la web de BancoEstado (sin quitar los otros formatos) y no duplica movimientos que ya estaban con otra fecha.",
+  "version": "1.0.88",
+  "fecha": "30-10-2026",
+  "notas": "- Cartolas: arreglado que la pestaña no abría cuando había una cuenta sin movimientos.",
   "ui": {
-    "version": "1.0.87",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.87/ui-1.0.87.zip",
+    "version": "1.0.88",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.88/ui-1.0.88.zip",
     "min_pc": "1.0.0",
     "min_android": "1.0.0",
-    "sha256": "ef10986665854001e0d99d777576dd0180f6853b77bbf89e843e8bcf7c20e854",
-    "firma": "VyRlxMMNTZHHICZDfWFWne28YDAAZvxQ1xT+1P+Lb0xQ1XyPABRFf9YBhqqyDz/Wf0+EZgar4EyPVTangv8d6w=="
+    "sha256": "e527555bdea4e4cb2a93d21781706f2e634182e8aa7f49a12a7bd887bc7c132e",
+    "firma": "PnbQ2aRjDOxKpKkhfXuP1bKMYEiRz/yK3P1eMTIH29iUmmBNeZuvSZ2QM0YjGQr6R5kKW0axLQxd1CZdaZjupA=="
   },
   "android": {
     "version": "1.0.86",
