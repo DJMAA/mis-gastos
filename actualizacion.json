@@ -1,14 +1,14 @@
 {
-  "version": "1.0.92",
+  "version": "1.0.93",
   "fecha": "19-11-2026",
-  "notas": "- Nuevo: conecta tu correo y las transferencias que haces y recibes (avisos de BCI y BancoEstado) aparecen solas. Se conecta en Configuración → Correo del banco.",
+  "notas": "Ahora puedes subir el PDF de «Últimos movimientos» de BancoEstado (Subir movimientos del día).",
   "ui": {
-    "version": "1.0.92",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.92/ui-1.0.92.zip",
+    "version": "1.0.93",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.93/ui-1.0.93.zip",
     "min_pc": "1.0.0",
     "min_android": "1.0.0",
-    "sha256": "6cd50208a1f8e5278d7fd81a7fbcbc43128ad0ac9902b18793e8a9b2c85b7e9c",
-    "firma": "h2AGe++bPqrfVIzPL6zAP09gXVS5xYmPY3IjMQL+0u3ixqCNeBMzcwzQ0uWapq/K+m2DvbW4hxBB1l5rNCOOaQ=="
+    "sha256": "a02627182375b5b4f4be4efb9924ed724f79e592b2254924d1bc7ecb185c5611",
+    "firma": "LtSFa6cNssIHqK0tS+/4O2kIu4/PzVGb3e8R2V6cLp/21Y34dh3PMfbZxyQ8Ns/9mCkCN0TVcIy4qnwUMXv4ZA=="
   },
   "android": {
     "version": "1.0.89",
@@ -17,9 +17,9 @@
     "firma": "r8lL/7zvAxRYXz/0v8H9AraA08dubIUifeoYNeoptQSdmSQXcDB2vsZydWWHwZ88sJNGAw98Eo7rwWj/TalO5Q=="
   },
   "pc": {
-    "version": "1.0.87",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.87/MisGastos-PC-1.0.87.zip",
-    "sha256": "2ad3a453ba590eb433b33f2e1b2d2a07e4fb4f7098595a4104520231f91ae971",
-    "firma": "fp0mf7/cEvknI9SDqA9wj7SPKRQyVSF3d/3PAHOpKQsMnw0TWxwJaG3LYvT+zyxmgfa2MvlSdf1XRShMYgYsGg=="
+    "version": "1.0.93",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.93/MisGastos-PC-1.0.93.zip",
+    "sha256": "b0286d1af10ac2194e2e3e66a73b5a8f2290efa39bf0326eea67e650b40411d1",
+    "firma": "E9tbd6jlP/esuU43cniGhKIICLazcPQ1XfWIxNNsEFdZuPgZOylOV9p4zb+StZaqSGeERQPxqaGWYUuyu6+rAQ=="
   }
 }
