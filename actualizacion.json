@@ -1,20 +1,20 @@
 {
-  "version": "1.0.88",
-  "fecha": "30-10-2026",
-  "notas": "- Cartolas: arreglado que la pestaña no abría cuando había una cuenta sin movimientos.",
+  "version": "1.0.89",
+  "fecha": "19-11-2026",
+  "notas": "- Se quitó Pánico DYM (computador y celular).\n- Botones para eliminar cuentas, cartolas importadas y movimientos.\n- La cartola se pide solo a fin de mes (del 1 al 5); durante el mes puedes subir los movimientos del día, que la cartola del mes reemplaza.\n- Más simple: sin Calendario, sin «Análisis» ni «Planificado vs. real» en Cartolas; gastos hormiga y cuánto guardar están en Herramientas.",
   "ui": {
-    "version": "1.0.88",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.88/ui-1.0.88.zip",
+    "version": "1.0.89",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.89/ui-1.0.89.zip",
     "min_pc": "1.0.0",
     "min_android": "1.0.0",
-    "sha256": "e527555bdea4e4cb2a93d21781706f2e634182e8aa7f49a12a7bd887bc7c132e",
-    "firma": "PnbQ2aRjDOxKpKkhfXuP1bKMYEiRz/yK3P1eMTIH29iUmmBNeZuvSZ2QM0YjGQr6R5kKW0axLQxd1CZdaZjupA=="
+    "sha256": "9163ea2a80bbe420529bc59f94253e4bfca6861d8f2b53dce2fa141bc7d5fa7a",
+    "firma": "Z9YUczzj1TjEmc9i/H2JxBdPtArfx5bGuKbygdepx27T2la2FzuiDGBZyzvsLBb4BFkRgb35ENgJ6M5OdcZ/zg=="
   },
   "android": {
-    "version": "1.0.86",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.86/MisGastos-1.0.86.apk",
-    "sha256": "8ccc425092a5ae2eebcf373361633d269cb79306736290ff108bea33d9ad3530",
-    "firma": "mEB3N5Bm4dOE25BnplNOd/RZseR/ig/QbbhA9XA7xHiV38YVt8vJGVA4U0x0B3YF+JOeNcQu51YJ0x540V9tIQ=="
+    "version": "1.0.89",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.89/MisGastos-1.0.89.apk",
+    "sha256": "d51ac50d77b6fa390d8ccaccb52880b3fcec3dcab68b072dfc8751e66993c20c",
+    "firma": "r8lL/7zvAxRYXz/0v8H9AraA08dubIUifeoYNeoptQSdmSQXcDB2vsZydWWHwZ88sJNGAw98Eo7rwWj/TalO5Q=="
   },
   "pc": {
     "version": "1.0.87",
