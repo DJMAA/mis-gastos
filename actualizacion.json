@@ -1,14 +1,14 @@
 {
-  "version": "1.0.89",
+  "version": "1.0.90",
   "fecha": "19-11-2026",
-  "notas": "- Se quitó Pánico DYM (computador y celular).\n- Botones para eliminar cuentas, cartolas importadas y movimientos.\n- La cartola se pide solo a fin de mes (del 1 al 5); durante el mes puedes subir los movimientos del día, que la cartola del mes reemplaza.\n- Más simple: sin Calendario, sin «Análisis» ni «Planificado vs. real» en Cartolas; gastos hormiga y cuánto guardar están en Herramientas.",
+  "notas": "- Arreglos: botones de las cuentas en una sola línea y la app ya no consulta el calendario al abrir.",
   "ui": {
-    "version": "1.0.89",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.89/ui-1.0.89.zip",
+    "version": "1.0.90",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.90/ui-1.0.90.zip",
     "min_pc": "1.0.0",
     "min_android": "1.0.0",
-    "sha256": "9163ea2a80bbe420529bc59f94253e4bfca6861d8f2b53dce2fa141bc7d5fa7a",
-    "firma": "Z9YUczzj1TjEmc9i/H2JxBdPtArfx5bGuKbygdepx27T2la2FzuiDGBZyzvsLBb4BFkRgb35ENgJ6M5OdcZ/zg=="
+    "sha256": "3906c783da45c4fcc1aae441fc104594d4b2a22b557e449b9580309d0eef56f7",
+    "firma": "RNtU8y0035osq3QZ74lNIEbm242kEWzBmKZG/FlA2ZFNXjmOTtfmLWrkSVIXiX9Sx7OoyadHU7yKIMhY8MT3nQ=="
   },
   "android": {
     "version": "1.0.89",
