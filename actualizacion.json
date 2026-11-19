@@ -1,14 +1,14 @@
 {
-  "version": "1.0.93",
+  "version": "1.0.94",
   "fecha": "19-11-2026",
-  "notas": "Ahora puedes subir el PDF de «Últimos movimientos» de BancoEstado (Subir movimientos del día).",
+  "notas": "Tarjeta de crédito: ahora puedes editar tú lo que compraste, lo que pagaste, la deuda, el disponible y lo que falta por pagar (botón «Editar montos»).",
   "ui": {
-    "version": "1.0.93",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.93/ui-1.0.93.zip",
+    "version": "1.0.94",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.94/ui-1.0.94.zip",
     "min_pc": "1.0.0",
     "min_android": "1.0.0",
-    "sha256": "a02627182375b5b4f4be4efb9924ed724f79e592b2254924d1bc7ecb185c5611",
-    "firma": "LtSFa6cNssIHqK0tS+/4O2kIu4/PzVGb3e8R2V6cLp/21Y34dh3PMfbZxyQ8Ns/9mCkCN0TVcIy4qnwUMXv4ZA=="
+    "sha256": "50259b15490ec5ec8e7368112540b817638f64b3efd2a1a1fdaaf2b83a83de50",
+    "firma": "FtxmM0h4/B2+Ss8z4uWkVJMatYm2W+BCKyRnkJXXMOmoK1P4jEU/MunwejzymFLBkGQ+mlpuV5moW0nn3AzfbQ=="
   },
   "android": {
     "version": "1.0.89",
