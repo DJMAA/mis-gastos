@@ -1,14 +1,14 @@
 {
-  "version": "1.0.91",
+  "version": "1.0.92",
   "fecha": "19-11-2026",
-  "notas": "- Cartolas: sin los avisos de «faltan cuentas» ni «faltan fechas»; del 1 al 5 de cada mes solo te recuerda subir las cartolas del mes que terminó.",
+  "notas": "- Nuevo: conecta tu correo y las transferencias que haces y recibes (avisos de BCI y BancoEstado) aparecen solas. Se conecta en Configuración → Correo del banco.",
   "ui": {
-    "version": "1.0.91",
-    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.91/ui-1.0.91.zip",
+    "version": "1.0.92",
+    "url": "https://github.com/DJMAA/mis-gastos/releases/download/v1.0.92/ui-1.0.92.zip",
     "min_pc": "1.0.0",
     "min_android": "1.0.0",
-    "sha256": "958cbe73ce7ad69a10fed3ec22135c6914e86037d08b9c9c8263e415c671cdd8",
-    "firma": "rIoPu2lUTOlxQZV6iiXKf7hMlGwU2oFb/DFtC8F2fXahlLqLISEgbVJAZhzRUDbTai6UZg1z4zQxEHKWIVwlPQ=="
+    "sha256": "6cd50208a1f8e5278d7fd81a7fbcbc43128ad0ac9902b18793e8a9b2c85b7e9c",
+    "firma": "h2AGe++bPqrfVIzPL6zAP09gXVS5xYmPY3IjMQL+0u3ixqCNeBMzcwzQ0uWapq/K+m2DvbW4hxBB1l5rNCOOaQ=="
   },
   "android": {
     "version": "1.0.89",
